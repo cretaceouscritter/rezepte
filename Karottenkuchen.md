@@ -1,4 +1,4 @@
-![163](karottenkuchen.png)
+![163](images/karottenkuchen.png)
 ## Zutaten
 ### Boden
 

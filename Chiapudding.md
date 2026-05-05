@@ -1,4 +1,4 @@
-![210](chiapudding.png)
+![210](images/chiapudding.png)
 ## Zutaten (2 Portionen)
 
 | Menge  | Zutat      |

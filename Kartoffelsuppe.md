@@ -1,4 +1,4 @@
-![200](kartoffelsuppe.png)
+![200](images/kartoffelsuppe.png)
 ## Zutaten (3 Portionen)
 
 | Menge       | Zutat                      |

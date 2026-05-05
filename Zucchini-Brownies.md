@@ -1,4 +1,4 @@
-![243](brownie.png)
+![243](images/brownie.png)
 ## Zutaten (12/16 Stück)
 
 | Menge          | Zutat                                               |
