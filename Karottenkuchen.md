@@ -1,4 +1,4 @@
-![[karottenkuchen.png|163]]
+![163](karottenkuchen.png)
 ## Zutaten
 ### Boden
 

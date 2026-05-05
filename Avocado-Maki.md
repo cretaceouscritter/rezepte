@@ -1,4 +1,4 @@
-![[sushi.jpeg|206]]
+![206](sushi.jpeg)
 ## Zutaten (2 Rollen)
 
 | Menge  | Zutat        |

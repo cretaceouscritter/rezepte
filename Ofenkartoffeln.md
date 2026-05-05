@@ -1,4 +1,4 @@
-![[ofenkartoffeln.jpeg|191]]
+![191](ofenkartoffeln.jpeg)
 ## Zutaten (1 Portion)
 
 | Menge | Zutaten     |

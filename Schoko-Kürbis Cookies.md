@@ -1,4 +1,4 @@
-![[cookie.png|175]]
+![175](cookie.png)
 ## Zutaten (20/30 Stück)
 
 |   Menge | Zutat           |

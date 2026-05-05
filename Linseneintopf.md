@@ -1,4 +1,4 @@
-![[linseneintopf.jpeg|161]]
+![161](linseneintopf.jpeg)
 ## Zutaten (5 Portionen)
 
 | Menge       | Zutat                   |
