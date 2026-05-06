@@ -6,9 +6,10 @@
 |   200 g | [[Kürbispüree]] |
 |    90 g | Kakaopulver     |
 |   200 g | Zuckerersatz    |
-|    60 g | Margarine       |
+|    75 g | Margarine       |
 |  1/2 TL | Backpulver      |
 | 1 Prise | Salz            |
+|    40 g | Kichererbsenmehl|
 
 ## Zubereitung  
   
