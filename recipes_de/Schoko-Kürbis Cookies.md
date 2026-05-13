@@ -1,5 +1,5 @@
-![175](../images/cookie.png)
-## Zutaten (20/30 Stück)
+![247](../images/kürbiscookies.jpeg)
+## Zutaten (30 Stück)
 
 |   Menge | Zutat           |
 | ------: | --------------- |

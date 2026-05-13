@@ -1,4 +1,4 @@
-![241](images/falafelwrap.jpeg)
+![241](../images/falafelwrap.jpeg)
 ## Zutaten (1 Stück)
 
 | Menge          | Zutat                  |

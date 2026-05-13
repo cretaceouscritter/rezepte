@@ -1,4 +1,4 @@
-![245](images/kichererbseneintopf.png)
+![245](../images/kichererbseneintopf.png)
 ## Zutaten (4 Portionen)
 
 |  Menge | Zutat                   |

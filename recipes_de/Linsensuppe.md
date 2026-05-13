@@ -1,4 +1,4 @@
-![162](images/linsensuppe.png)
+![162](../images/linsensuppe.png)
 ## Zutaten (4 Portionen)
 
 | Menge | Zutat                     |
