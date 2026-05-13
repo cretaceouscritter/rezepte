@@ -21,3 +21,6 @@
    -> Falls der Teig klebt: Hände leicht anfeuchten oder mit Kakao bestäuben.  
 7. Optional: etwas grobes Salz oben drauf streuen.  
 8. 15 Minuten backen bei 160 °C Umluft
+
+
+Quelle: https://cheatdaydesign.com/low-calorie-cookies/#mv-creation-143-jtr

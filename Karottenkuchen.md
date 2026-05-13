@@ -48,3 +48,9 @@
 5. Kuchen vollständig abkühlen lassen.
 6. Für das Frosting Frischkäse, Süßungsmittel und Zitronenschale glatt rühren.
 7. Frosting auf dem abgekühlten Kuchen verteilen und nach Wunsch dekorieren.
+
+
+
+
+Quelle: 
+https://www.backenmachtgluecklich.de/rezepte/veganer-moehrenkuchen-ohne-ei-butter-milch.html (abgeändert)
