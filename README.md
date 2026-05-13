@@ -9,19 +9,19 @@ Das hier ist eine Sammlung an Rezepten, die ich erstellt/abgeändert/gefunden ha
 
 # Hauptgerichte
 
-- [Kartoffelsuppe](Kartoffelsuppe.md)
-- [Linsensuppe](Linsensuppe.md)
-- [Linsen-Eintopf](Linsen-Eintopf.md)
-- [Falafel-Wrap](Falafel-Wrap.md)
-- [Ofenkartoffeln](Ofenkartoffeln.md)
-- [Avocado-Maki](Avocado-Maki.md)
-- [Kichererbsen-Eintopf](Kichererbsen-Eintopf.md)
+- [Kartoffelsuppe](recipes_de/Kartoffelsuppe.md)
+- [Linsensuppe](recipes_de/Linsensuppe.md)
+- [Linsen-Eintopf](recipes_de/Linsen-Eintopf.md)
+- [Falafel-Wrap](recipes_de/Falafel-Wrap.md)
+- [Ofenkartoffeln](recipes_de/Ofenkartoffeln.md)
+- [Avocado-Maki](recipes_de/Avocado-Maki.md)
+- [Kichererbsen-Eintopf](recipes_de/Kichererbsen-Eintopf.md)
 
 # Nachspeisen
 
-- [Schoko-Kürbis Cookies](Schoko-Kürbis%20Cookies.md)
-- [Chiapudding](Chiapudding.md)
-- [Zucchini-Brownies](Zucchini-Brownies.md)
-- [Karottenkuchen](Karottenkuchen.md)
-- [Pancakes](Pancakes.md)
+- [Schoko-Kürbis Cookies](recipes_de/Schoko-Kürbis%20Cookies.md)
+- [Chiapudding](recipes_de/Chiapudding.md)
+- [Zucchini-Brownies](recipes_de/Zucchini-Brownies.md)
+- [Karottenkuchen](recipes_de/Karottenkuchen.md)
+- [Pancakes](recipes_de/Pancakes.md)
 - 
