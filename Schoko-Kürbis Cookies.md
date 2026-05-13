@@ -1,12 +1,12 @@
-![175](images/cookie.png)
-## Zutaten (20/30 Stück)
+![185](images/kürbiscookies.jpeg)
+## Zutaten (30 Stück)
 
 |   Menge | Zutat           |
 | ------: | --------------- |
 |   200 g | [[Kürbispüree]] |
 |    90 g | Kakaopulver     |
-|   200 g | Zuckerersatz    |
-|    60 g | Margarine       |
+|   200 g | Birkenzucker    |
+|    75 g | Margarine       |
 |  1/2 TL | Backpulver      |
 | 1 Prise | Salz            |
 
