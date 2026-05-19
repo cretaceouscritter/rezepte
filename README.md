@@ -10,6 +10,7 @@ Das hier ist eine Sammlung an Rezepten, die ich erstellt/abgeändert/gefunden ha
 # Hauptgerichte
 
 - [Kartoffelsuppe](recipes_de/Kartoffelsuppe.md)
+- [Kürbissuppe](recipes_de/Kürbissuppe.md)
 - [Linsensuppe](recipes_de/Linsensuppe.md)
 - [Linsen-Eintopf](recipes_de/Linsen-Eintopf.md)
 - [Falafel-Wrap](recipes_de/Falafel-Wrap.md)
