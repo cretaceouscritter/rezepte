@@ -10,6 +10,7 @@ Das hier ist eine Sammlung an Rezepten, die ich erstellt/abgeändert/gefunden ha
 # Hauptgerichte
 
 - [Kartoffelsuppe](recipes_de/Kartoffelsuppe.md)
+- [Kürbissuppe](recipes_de/Kürbissuppe.md)
 - [Linsensuppe](recipes_de/Linsensuppe.md)
 - [Linsen-Eintopf](recipes_de/Linsen-Eintopf.md)
 - [Falafel-Wrap](recipes_de/Falafel-Wrap.md)
@@ -24,4 +25,5 @@ Das hier ist eine Sammlung an Rezepten, die ich erstellt/abgeändert/gefunden ha
 - [Zucchini-Brownies](recipes_de/Zucchini-Brownies.md)
 - [Karottenkuchen](recipes_de/Karottenkuchen.md)
 - [Pancakes](recipes_de/Pancakes.md)
-- 
+- [Beeren-Muffins](recipes_de/Beeren-Muffins.md)
+- [Zitronen-Torte](recipes_de/Zitronen-Torte)
