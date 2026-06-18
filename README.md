@@ -25,5 +25,4 @@ Das hier ist eine Sammlung an Rezepten, die ich erstellt/abgeändert/gefunden ha
 - [Zucchini-Brownies](recipes_de/Zucchini-Brownies.md)
 - [Karottenkuchen](recipes_de/Karottenkuchen.md)
 - [Pancakes](recipes_de/Pancakes.md)
-- [Beeren-Muffins](recipes_de/Beeren-Muffins.md)
-- [Zitronen-Torte](recipes_de/Zitronen-Torte)
+- 
